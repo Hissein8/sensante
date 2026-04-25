@@ -12,3 +12,8 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+
+# fichiers temporaires matplotlib
+*.png
+!figures/*.png
